@@ -1,4 +1,4 @@
-# 📱🗄️ Aplicativo Flutter com Integração ao Banco de Dados SQLite
+# 📱🗄️ Aplicativo Flutter Com Integração ao Banco de Dados SQLite
 
 Este repositório contém a implementação de um **aplicativo desenvolvido com o framework Flutter**, que realiza a **integração com o banco de dados SQLite** para persistência local dos dados.
 
